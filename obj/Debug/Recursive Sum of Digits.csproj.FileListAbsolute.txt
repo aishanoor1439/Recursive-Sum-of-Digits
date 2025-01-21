@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Recursive Sum of Digits\bin\Debug\Recursive Sum of Digits.exe.config
+C:\Users\DELL\source\repos\Recursive Sum of Digits\bin\Debug\Recursive Sum of Digits.exe
+C:\Users\DELL\source\repos\Recursive Sum of Digits\bin\Debug\Recursive Sum of Digits.pdb
+C:\Users\DELL\source\repos\Recursive Sum of Digits\obj\Debug\Recursive Sum of Digits.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Recursive Sum of Digits\obj\Debug\Recursive Sum of Digits.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Recursive Sum of Digits\obj\Debug\Recursive Sum of Digits.exe
+C:\Users\DELL\source\repos\Recursive Sum of Digits\obj\Debug\Recursive Sum of Digits.pdb
